@@ -1,4 +1,4 @@
-![MasterHead](https://c8.alamy.com/comp/2BFEKGB/data-scientist-worker-minimal-infographic-banner-vector-2BFEKGB.jpg)
+![data-scientist-worker-minimal-infographic-banner-vector-2BFEKGB](https://github.com/pakshaljain05/pakshaljain05/assets/56919361/e207a5b0-4186-4b57-b6dc-543e0c15c910)
 <h1 align="center">Hi 👋, I'm Pakshal Jain</h1>
 <h3 align="center">I am a passionate Data Scientist exploring new and challenging opportunities to further enhance my skills and expertise in data science, and to contribute to the advancement of data-driven solutions in various industries.</h3>
 
