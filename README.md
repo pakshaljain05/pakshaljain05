@@ -1,8 +1,8 @@
 ![data-scientist-worker-minimal-infographic-banner-vector-2BFEKGB](https://github.com/pakshaljain05/pakshaljain05/assets/56919361/e207a5b0-4186-4b57-b6dc-543e0c15c910)
 <h1 align="center">Hi 👋, I'm Pakshal Jain</h1>
-<h3 align="center">I am a passionate Data Scientist exploring new and challenging opportunities to further enhance my skills and expertise in data science, and to contribute to the advancement of data-driven solutions in various industries.</h3>
-
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif">
+<h3 align="left">I am a passionate Data Scientist exploring new and challenging opportunities to further enhance my skills and expertise in data science, and to contribute to the advancement of data-driven solutions in various industries.</h3>
+
 - 🌱 I’m currently learning **to build ML and LLMs based end to end AI applications**
 
 - 📫 How to reach me **pakshaljain05@gmail.com**
